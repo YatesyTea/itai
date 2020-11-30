@@ -1,0 +1,4 @@
+﻿  Source.c
+e:\c files\task_2\task_2\source.c(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Task_2.vcxproj -> E:\C Files\Task_2\Debug\Task_2.exe
+  Task_2.vcxproj -> E:\C Files\Task_2\Debug\Task_2.pdb (Partial PDB)

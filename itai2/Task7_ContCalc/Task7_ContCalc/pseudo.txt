@@ -1,0 +1,6 @@
+
+While the input isn't q
+	take input as string array
+	check what the first character in the string is
+	if it's not q
+		seperate 

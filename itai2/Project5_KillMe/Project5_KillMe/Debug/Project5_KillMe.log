@@ -1,0 +1,4 @@
+﻿  Source.c
+e:\c files\project5_killme\project5_killme\source.c(19): warning C4477: 'printf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  Project5_KillMe.vcxproj -> E:\C Files\Project5_KillMe\Debug\Project5_KillMe.exe
+  Project5_KillMe.vcxproj -> E:\C Files\Project5_KillMe\Debug\Project5_KillMe.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  Source.c
+e:\c files\task8\task8\source.c(22): warning C4477: 'scanf' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double'
+  Task8.vcxproj -> E:\C Files\Task8\Debug\Task8.exe
+  Task8.vcxproj -> E:\C Files\Task8\Debug\Task8.pdb (Partial PDB)
